@@ -9,6 +9,7 @@ This is a simple Java application for a School Management System, consisting of 
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+- [Task](#tasks-directory)
 
 ## Introduction
 
@@ -45,4 +46,6 @@ Contributions are welcome! If you would like to enhance the functionality of thi
 3. Commit your changes and push to your fork.
 4. Submit a pull request, explaining the changes you've made.
 
+### Tasks Directory
 
+For details on tasks located in the subdirectory, please refer to the [Tasks Directory English Version](./src/main/java/EnTask.md) or [Tasks Directory Turkish Version](./src/main/java/TrTask.md) document.
